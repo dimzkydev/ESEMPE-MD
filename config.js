@@ -3,8 +3,8 @@ import { fileURLToPath } from 'url'
 import color from './lib/color.js';
 
 
-global.PAIRING_NUMBER = 6287701656619
-global.ownerNumber = ["6287701656619", "6287782304364"]
+global.PAIRING_NUMBER = 6287776041710
+global.ownerNumber = ["6287701656619", "6287782304364", "6287776041710"]
 
 global.mode = false //self
 
